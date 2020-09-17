@@ -11,7 +11,7 @@
 
 [ 현재까지 끝 마친 프로젝트 ] 
 
-1. 세월호 , 기억해주세요 [ 출시 대기중 ]
+1. 세월호 , 기억해주세요 [ https://play.google.com/store/apps/details?id=com.solo_dev.remember_final ]
 2. 감성, 쓰다. [ 조만간 수정 예정 ]
 3. 나쁜 기억 지우개 [ 출시 대기중, 마무리 작업 ]
 
