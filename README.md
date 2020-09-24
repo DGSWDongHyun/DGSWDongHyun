@@ -1,4 +1,4 @@
-안녕하세요. 안드로이드 어플리케이션 개발자 준비 중인 양동현입니다. :smile:
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
 
 ![DGSWDongHyun's github stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=cobalt)
