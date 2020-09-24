@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
 
-![DGSWDongHyun's github stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGSWDongHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![DGSWDongHyun's github stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGSWDongHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [ 현재까지 끝 마친 프로젝트 ] 
 
