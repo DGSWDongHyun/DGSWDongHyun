@@ -19,7 +19,8 @@
 
 ### 지금까지 이런 것들을 배웠어요 .
 
-- Android
+- Android ( Java )
+- Kotlin ( 50 percent. )
 - HTML ( include CSS3 )
 
 ### 지금 배우고 있어요.
