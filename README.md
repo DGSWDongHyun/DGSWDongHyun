@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20There%20👋&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=안녕하세요%20There%20👋&fontSize=60&fontAlignY=35)
 
 
 ![DGSWDongHyun's github stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGSWDongHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
