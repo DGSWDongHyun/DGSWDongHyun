@@ -27,7 +27,7 @@
 ### 지금까지 이런 것들을 배웠어요 .
 
 - Android ( Java )
-- Kotlinc ( Android )
+- Kotlin ( Android )
 - HTML ( include CSS3 )
 
 ### 지금 배우고 있어요.
