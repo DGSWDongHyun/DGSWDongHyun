@@ -6,21 +6,28 @@
 [ 현재까지 끝 마친 프로젝트 ] 
 
 1. 세월호 , 기억해주세요 [ https://play.google.com/store/apps/details?id=com.solo_dev.remember_final ]
-2. 감성, 쓰다. [ 조만간 수정 예정 ]
-3. 나쁜 기억 지우개 [ 출시 대기중, 마무리 작업 ]
+2. 감성, 쓰다. [ 업데이트 중 ]
 
 [ 준비 중인 프로젝트 ]
 
 1. 깨랑깨랑 [ 미완성 ]
-2. 지금 무슨 공부 하는 중이니 ? [ 미완성 ]
-3. BGTube [ 미완성 ]
-4. Wave [ 미완성 ] ( 나르샤 프로젝트 )
+2. BGTube [ 미완성 ]
+3. Wave [ 미완성 ] ( 나르샤 프로젝트 )
 
+### 적용 중인 기술들
+
+- Retrofit2
+- Gson
+- Firebase
+- DAO ( Data Access Object )
+- DRO ( Data Transfer Object )
+- Navigation Fragment ( Jetpack )
+- Background Service ( With WindowManager )
 
 ### 지금까지 이런 것들을 배웠어요 .
 
 - Android ( Java )
-- Kotlin ( 50 percent. )
+- Kotlinc ( Android )
 - HTML ( include CSS3 )
 
 ### 지금 배우고 있어요.
