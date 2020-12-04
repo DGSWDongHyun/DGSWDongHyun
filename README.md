@@ -20,7 +20,7 @@
 - Gson
 - Firebase
 - DAO ( Data Access Object )
-- DRO ( Data Transfer Object )
+- DTO ( Data Transfer Object )
 - Navigation Fragment ( Jetpack )
 - Background Service ( With WindowManager )
 
