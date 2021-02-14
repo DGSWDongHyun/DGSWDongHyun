@@ -1,15 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=안녕하세요%20%20👋&fontSize=60&fontAlignY=35)
 
 
-![DGSWDongHyun's github stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGSWDongHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[ 현재까지 끝 마친 프로젝트 ] 
+### [ 현재까지 끝 마친 프로젝트 ] 
 
 1. 세월호 , 기억해주세요 [ https://play.google.com/store/apps/details?id=com.solo_dev.remember_final ] - 리뉴얼 중 ( 직관적 디자인 관련 )
 2. 감성, 쓰다. [ 업데이트 중 ]
 3. 코로나 위젯 [ 출시 준비 중 ]
 
-[ 준비 중인 프로젝트 ]
+### [ 준비 중인 프로젝트 ]
 
 1. 깨랑깨랑 [ 미완성 ]
 2. BGTube [ 미완성 ]
@@ -30,11 +28,11 @@
 - Android ( Java )
 - Kotlin ( Android )
 - HTML ( include CSS3 )
+- JavaScript ( 학교 수업 )
+- C# ( WinForm / WPF ) ( 학교 수업 )
 
 ### 지금 배우고 있어요.
 
-- JavaScript ( 학교 수업 )
-- C# ( WinForm / WPF ) ( 학교 수업 )
 - Android Design Pattern , Kotlin ( 개인 과제 )
 
 ### 이리로 연락주세요.
