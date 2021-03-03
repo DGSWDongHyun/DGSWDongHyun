@@ -5,7 +5,7 @@
 
 1. 세월호 , 기억해주세요 [ https://play.google.com/store/apps/details?id=com.solo_dev.remember_final ] - 리뉴얼 중 ( 직관적 디자인 관련 )
 2. 감성, 쓰다. [ 업데이트 중 ]
-3. 코로나 위젯 [ 출시 준비 중 ]
+3. 코로나 위젯 [ https://github.com/DGSWDongHyun/Covid19_Widget ]
 
 ### [ 준비 중인 프로젝트 ]
 
@@ -22,6 +22,8 @@
 - DTO ( Data Transfer Object )
 - Navigation Fragment ( Jetpack )
 - Background Service ( With WindowManager )
+- MVVM
+- Couroutine
 
 ### 지금까지 이런 것들을 배웠어요 .
 
