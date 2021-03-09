@@ -20,7 +20,7 @@
 
 ### [ 지금 배우고 있어요. ]
 
-- Android Design Pattern , Kotlin ( 개인 과제 ), Clean Architechture
+- Android Design Pattern, Clean Architechture
 
 ### [ 이리로 연락주세요. ]
 
