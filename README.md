@@ -2,7 +2,8 @@
 
 ### 적용 중인 기술들
 
-- Retrofit2, Gson, Firebase, DAO ( Data Access Object ), DTO ( Data Transfer Object ), Navigation Fragment ( Jetpack ), Background Service ( With WindowManager ),  MVVM, Couroutine, DataBinding, ViewBinding, Room
+![learned](https://user-images.githubusercontent.com/66651059/110414095-94a10480-80d2-11eb-840f-0a23602328ab.png)
+
 
 ### 지금까지 이런 것들을 배웠어요 .
 
