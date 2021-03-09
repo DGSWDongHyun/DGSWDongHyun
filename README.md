@@ -12,9 +12,14 @@
 
 ### [ 지금까지 이런 것들을 배웠어요. ]
 
-- Android ( Java )
+- C언어
+- JAVA ( OCAJP 취득 )
+
+---------------------------------------------------
+
+- JAVA ( Android )
 - Kotlin ( Android )
-- HTML ( include CSS3 )
+- HTML5 ( include CSS3 ), ( 학교 수업 )
 - JavaScript ( 학교 수업 )
 - C# ( WinForm / WPF ) ( 학교 수업 )
 
