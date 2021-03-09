@@ -4,6 +4,11 @@
 
 ![learned](https://user-images.githubusercontent.com/66651059/110414095-94a10480-80d2-11eb-840f-0a23602328ab.png)
 
+[ 위 기술 외에도 이런 기술을 배웠어요 ! ]
+
+1. ViewBinding, DataBinding
+2. Glide
+
 
 ### 지금까지 이런 것들을 배웠어요 .
 
