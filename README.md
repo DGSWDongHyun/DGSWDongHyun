@@ -9,6 +9,9 @@
 
 1. ViewBinding, DataBinding
 2. Glide
+3. Clean Architecture with MVVM
+4. Dagger2 ( Learning )
+5. RxJava2 ( Learning )
 
 ---------------------------------------------------
 
