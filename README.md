@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RxJava2, Dagger2, CleanArchitecture, MVVM**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/PORTFOLIO-39d18bbdc7df42a49047a3b93f17d126](https://www.notion.so/PORTFOLIO-39d18bbdc7df42a49047a3b93f17d126)
+- 👨‍💻 All of my projects are available at [Notion's Portfolio](https://www.notion.so/PORTFOLIO-39d18bbdc7df42a49047a3b93f17d126)
 
 - 📫 How to reach me **ydh665566@naver.com**
 
