@@ -2,7 +2,8 @@
 <h3 align="center">An Android Developer who makes a better world.</h3>
 
 
-[(https://img.shields.io/badge/style-forthebage-red?style=for-the-badge)]
+[![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.facebook.com/profile.php?id=100032864640993](https://www.facebook.com/profile.php?id=100032864640993)
+
 
 - 🔭 I’m currently working on [B_](https://github.com/DGSWDongHyun/B_)
 
