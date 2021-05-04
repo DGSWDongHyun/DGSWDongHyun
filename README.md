@@ -2,7 +2,7 @@
 <h3 align="center">An Android Developer who makes a better world.</h3>
 
 
-https://img.shields.io/badge/style-forthebage-red?style=for-the-badge
+[(https://img.shields.io/badge/style-forthebage-red?style=for-the-badge)]
 
 - 🔭 I’m currently working on [B_](https://github.com/DGSWDongHyun/B_)
 
