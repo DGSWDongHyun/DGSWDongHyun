@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm DongHyun, Yang</h1>
 <h3 align="center">An Android Developer who makes a better world.</h3>
 
+
+https://img.shields.io/badge/style-forthebage-red?style=for-the-badge
+
 - 🔭 I’m currently working on [B_](https://github.com/DGSWDongHyun/B_)
 
 - 🌱 I’m currently learning **RxJava2, Dagger2, CleanArchitecture, MVVM**
