@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DongHyun, Yang</h1>
+<h1 align="center">Hi there 👋, I'm DongHyun, Yang</h1>
 <h3 align="center">An Android Developer who makes a better world.</h3>
 
 #### Language
