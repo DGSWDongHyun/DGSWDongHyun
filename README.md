@@ -16,9 +16,12 @@
 <a href='https://github.com/DGSWDongHyun/B_'><img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=Github&logoColor=white"></a>
 
 #### 🌱 I’m currently learning 
-- RxJava2, Dagger2, CleanArchitecture, MVVM
+- RxJava2
+- Dagger2
+- CleanArchitecture with MVVM
+- Spring
 
-#### 💻 You can see my Stacks on my Portfolio
+#### 💻 You can see my stacks on my Portfolio
 <a href='https://www.notion.so/PORTFOLIO-39d18bbdc7df42a49047a3b93f17d126'><img src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 #### 👨‍💻  <b>All of my projects are available at</b>
