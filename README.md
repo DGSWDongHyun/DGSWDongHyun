@@ -13,13 +13,8 @@
 > - <a href='#'><img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white"></a>
 
 
-
-#### 🔭 I’m currently working on B. ( Project )
-> - <a href='https://github.com/DGSWDongHyun/B_'><img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=Github&logoColor=white"></a>
-
 #### 🌱 I’m currently learning
-> - RxJava2
-> - Dagger2
+> - Coroutine + Flow
 > - Dagger Hilt
 > - CleanArchitecture with MVVM
 
