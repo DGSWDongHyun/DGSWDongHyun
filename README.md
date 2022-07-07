@@ -15,6 +15,7 @@
 > - <a href='#'><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/AWS Amplify-FF9900?&style=for-the-badge&logo=AWS Amplify&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"></a>
+> - <a href='#'><img src="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white"></a>
 
 #### 🌱 I’m currently learning
 > - MySQL
