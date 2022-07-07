@@ -11,7 +11,7 @@
 #### Use Tool
 > - <a href='#'><img src="https://img.shields.io/badge/Android Studio-3DDC84?&style=for-the-badge&logo=Android-Studio&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white"></a>
-> - <a href='#'><img src="https://img.shields.io/badge/Visual Studio Code-#5C2D91?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
+> - <a href='#'><img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 
 #### 🌱 I’m currently learning
 > - MySQL
