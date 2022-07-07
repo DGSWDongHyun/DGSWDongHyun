@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm DongHyun, Yang</h1>
-<h3 align="center">An Android Developer who makes a better world.</h3>
+<h3 align="center">A Developer who makes a better world.</h3>
 
 #### Language
 > - <a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
