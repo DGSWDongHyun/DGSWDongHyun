@@ -11,12 +11,12 @@
 #### Use Tool
 > - <a href='#'><img src="https://img.shields.io/badge/Android Studio-3DDC84?&style=for-the-badge&logo=Android-Studio&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white"></a>
-
+> - <a href='#'><img src="https://img.shields.io/badge/Visual Studio Code-#5C2D91?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 
 #### 🌱 I’m currently learning
+> - MySQL
+> - Node.js
 > - Coroutine + Flow
-> - Dagger Hilt
-> - CleanArchitecture with MVVM
 
 #### 💻 You can see my stacks on my Portfolio
 > - <a href='https://www.notion.so/PORTFOLIO-39d18bbdc7df42a49047a3b93f17d126'><img src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=Notion&logoColor=white"></a>
