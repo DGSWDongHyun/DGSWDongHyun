@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm DongHyun, Yang</h1>
-<h3 align="center">A Developer who makes a better world.</h3>
-<p align="center">
+<h3 align="center">A Developer who makes a better world.</h3
+  
 ![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=dark)
 
 #### Language
@@ -20,4 +20,4 @@
 
 #### 📫 How to reach me 
 - <a href='#'><img src="https://img.shields.io/badge/ydh665566@naver.com-005FF9?&style=for-the-badge&logo=Mail.ru&logoColor=white"></a>
-</p>
+
