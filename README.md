@@ -15,8 +15,6 @@
 > - <a href='#'><img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/AWS Amplify-FF9900?&style=for-the-badge&logo=AWS Amplify&logoColor=white"></a>
-> - <a href='#'><img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"></a>
-> - <a href='#'><img src="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white"></a>
-> 
+
 #### 📫 How to reach me 
 > - <a href='#'><img src="https://img.shields.io/badge/ydh665566@naver.com-005FF9?&style=for-the-badge&logo=Mail.ru&logoColor=white"></a>
