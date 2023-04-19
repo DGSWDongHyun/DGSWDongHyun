@@ -1,6 +1,8 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm DongHyun, Yang</h1>
 <h3 align="center">A Developer who makes a better world.</h3>
 
+![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&hide=contribs,prs)
+
 #### Language
 > - <a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a>
 > - <a href='#'><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
