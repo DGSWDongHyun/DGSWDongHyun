@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm DongHyun, Yang</h1>
 <h3 align="center">A Developer who makes a better world.</h3>
 
-<p align="center">
-#### My Stats ( Latest Update 2023.04 ) 
-![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=dark)
-</p>
+<h3 align="center">Github Stats</h3>
 
+<p align="center">
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=dark" alt="Github stats" />
+</p>
 
 #### Using Language ( Latest Update 2023.04 ) 
 >- <a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a>
