@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm DongHyun, Yang</h1>
 <h3 align="center">A Developer who makes a better world.</h3>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">My Github Stats</h3>
 
 <p align="center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=dark" alt="Github stats" />
