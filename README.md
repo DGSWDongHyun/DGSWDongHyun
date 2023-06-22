@@ -1,15 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm DongHyun, Yang</h1>
 <h3 align="center">A Developer who makes a better world.</h3>
 
-<h3 align="center">My Github Stats</h3>
-
-<p align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=DGSWDongHyun&show_icons=true&theme=dark" alt="Github stats" />
-</p>
-
-
-
-
 #### Using Language ( Latest Update 2023.04 ) 
 >- <a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a>
 >- <a href='#'><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
@@ -27,6 +18,29 @@
 >- <a href='#'><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 >- <a href='#'><img src="https://img.shields.io/badge/AWS Amplify-FF9900?&style=for-the-badge&logo=AWS Amplify&logoColor=white"></a>
 
+
+<details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  </a>
+</p>
 
 
 #### 📫 How to reach me 
