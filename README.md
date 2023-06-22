@@ -17,12 +17,6 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
-  </a>
-</p>
-
 #### Using Language ( Latest Update 2023.04 ) 
 >- <a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a>
 >- <a href='#'><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
@@ -43,3 +37,8 @@
 #### 📫 How to reach me 
 >- <a href='#'><img src="https://img.shields.io/badge/ydh665566@naver.com-005FF9?&style=for-the-badge&logo=Mail.ru&logoColor=white"></a>
 
+<p align="center">
+  <a href="https://github.com/DGSWDongHyun">
+    <img src="https://komarev.com/ghpvc/?username=DGSWDongHyun&color=blue&style=flat)" />
+  </a>
+</p>
